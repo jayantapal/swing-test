@@ -13,6 +13,7 @@ import javax.swing.JLabel;
 public class MainMenu extends JFrame implements ActionListener {
 	
 //Add 1
+	//Add 2
 	
 
 	JButton addStudent;
